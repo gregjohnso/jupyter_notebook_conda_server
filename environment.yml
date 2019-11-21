@@ -1,0 +1,13 @@
+name: jupyter_notebook_server
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - jupyterlab
+  - nb_conda
+  - nb_conda_kernels
+  - nodejs
+  - flake8
+
+
