@@ -7,6 +7,7 @@ git clone https://aicsbitbucket.corp.alleninstitute.org/scm/model/jupyter_notebo
 cd jupyter_notebook_server
 conda env create -f environment.yml
 ```
+Note: The other Conda environments should have the `ipykernel` Conda package installed.
 
 ## Running the Jupter notebook server
 
@@ -23,5 +24,3 @@ On the top menu bar, you should be able to see other conda envs by going to
 
 and you will get a pop-up that looks like this (for example):  
 ![alt text](./kernel_examples.png "Examples of kernels to select from")
-
-
