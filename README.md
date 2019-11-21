@@ -1,4 +1,4 @@
-# jupyter_notebook_server
+# jupyter notebook conda server
 Sets up a Jupiter notebook server that allows you to access your other Conda environments as Jupyter notebook kernels
 
 ## Installation
