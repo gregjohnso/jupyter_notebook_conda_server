@@ -3,7 +3,7 @@ Sets up a Jupiter notebook server that allows you to access your other Conda env
 
 ## Installation
 ```
-git clone https://aicsbitbucket.corp.alleninstitute.org/scm/model/jupyter_notebook_conda_server.git
+git clone git@github.com:gregjohnso/jupyter_notebook_conda_server.git
 cd jupyter_notebook_server
 conda env create -f environment.yml
 ```
